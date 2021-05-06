@@ -1,4 +1,4 @@
-import { VectorTileFeature } from "./vectortilefeature.js";
+import { VectorTileFeature } from "./VectorTileFeature.js";
 
 function VectorTileLayer(pbf, end) {
     // Public
